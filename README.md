@@ -70,3 +70,12 @@ Schätzen Sie die Zuhörfähigkeiten und nutzen Sie sie für Teambesprechungen
 Respektieren Sie die emotionale Seite und schaffen Sie ein vertrauensvolles Umfeld
 Planen Sie Änderungen rechtzeitig und kommunizieren Sie diese klar
 Nutzen Sie die schnelle Auffassungsgabe für komplexe Problemlösungen
+
+
+https://github.com/skpatrickue-73/Repository-Name-Charakter-Patt/blob/main/Charakter%2001
+
+https://github.com/skpatrickue-73/Repository-Name-Charakter-Patt/blob/main/biografie.md
+
+https://github.com/skpatrickue-73/Repository-Name-Charakter-Patt/blob/main/Eigenschaften.txt
+
+https://github.com/skpatrickue-73/Repository-Name-Charakter-Patt/blob/main/abenteuer.md
